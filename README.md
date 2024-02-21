@@ -12,7 +12,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at the University of Jaffna.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Azure devops\
 ✍️ &nbsp;In my free time, I pursue Blog Writing as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at divamanashvi03@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at divamanashvi03@gmail.com! I'll try to respond as soon as I can.
 
 
 ---
