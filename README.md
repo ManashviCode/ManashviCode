@@ -40,6 +40,26 @@
 </a>
 </p>
 <div align="center">
+  
+---
+# My Projects
+
+## ASP.NET Projects
+
+### [Exam Hall Booking System](https://github.com/ManashviCode/ExamHallBookingSystem) ▶️ [Live Demo](#)
+
+### [Pet Store](https://github.com/ManashviCode/Pet_Store) ▶️ [Live Demo](#)
+
+### [Juice Bar](https://github.com/ManashviCode/JuiceBarAPI) ▶️ [Live Demo](#)
+
+## CODESOFT Internship Projects
+
+### [PORTFOLIO](https://github.com/ManashviCode/CODESOFT/tree/main/codesoft_2) ▶️ [Live Demo](#)
+
+### [LANDING PAGE](https://github.com/ManashviCode/CODESOFT/blob/main/codesoft_1/home.html) ▶️ [Live Demo](#)
+
+### [CALCULATOR](https://github.com/ManashviCode/CODESOFT/tree/main/codesoft_3) ▶️ [Live Demo](#)
+
 
   ### Show ❤️ by 🌟 my [repositories](https://github.com/ManashviCode?tab=repositories)!
 
