@@ -44,7 +44,7 @@
 ---
 # My Projects
 
-## ASP.NET Projects
+## ASP.NET 
 
 ### [Exam Hall Booking System](https://github.com/ManashviCode/ExamHallBookingSystem) ▶️ [Live Demo](#)
 
@@ -52,7 +52,7 @@
 
 ### [Juice Bar](https://github.com/ManashviCode/JuiceBarAPI) ▶️ [Live Demo](#)
 
-## CODESOFT Internship Projects
+## CODESOFT Internship 
 
 ### [PORTFOLIO](https://github.com/ManashviCode/CODESOFT/tree/main/codesoft_2) ▶️ [Live Demo](#)
 
@@ -60,7 +60,15 @@
 
 ### [CALCULATOR](https://github.com/ManashviCode/CODESOFT/tree/main/codesoft_3) ▶️ [Live Demo](#)
 
+## University 
 
-  ### Show ❤️ by 🌟 my [repositories](https://github.com/ManashviCode?tab=repositories)!
+### [Gmail Management System - PHP](https://github.com/ManashviCode/PHP-GMS-) ▶️ [Live Demo](#)
+
+### [EXAM HALL BOOKING SYSTEM]() - See ASP.NET project section&#128070;
+
+
+
+---
+### Show ❤️ by 🌟 my [repositories](https://github.com/ManashviCode?tab=repositories)!
 
 </div>
