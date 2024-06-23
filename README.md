@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/divani-manarandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divani-manarandi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manarandi2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manarandi2001" height="30" width="40" /></a>
 <a href="https://medium.com/@divanimanarandi" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium-Symbol-Black-RGB.svg" alt="manarandi2001" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ManashviDiv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/JacobLinCool/LeetCode-Stats-Card/main/favicon/leetcode.ico" alt="manarandi2001" height="30" width="40" /></a>
 </p>
 
 ---
