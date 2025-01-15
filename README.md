@@ -35,6 +35,8 @@ Expereinces With         | [![Git Badge](https://img.shields.io/badge/-Git-F0503
 ### Completed Projects 🚧
 
 - **[University ExamHall Booking System](https://github.com/CydexCode/ExamHallBookingSystem)** ( .NET Core Web API + React.js + SQL Server )
+- **[Vehicle_Parking_Space_Counter](https://github.com/ManashviCode/Vehicle_Parking_Space_Counter)** ( Object Detection(Computer Vision) )
+- **[Spelling-Corrector-and-Grammar-Checker-for-Sinhala](https://github.com/ManashviCode/Sinhala-Spell-and-Grammar-Checker)** ( AI + Python )
 - **[Gmail Management System](https://github.com/ManashviCode/PHP-GMS-)** ( PHP )
 - **[NutriVision](https://github.com/ManashviCode/NutriVision)** ( LLM + React Native )
 - **[CodeSoft Internship](https://github.com/ManashviCode/CODESOFT)** ( LandPage , Portfolio , Calculator -> HTML + CSS + JavaScript )
